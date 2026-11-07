@@ -1,0 +1,27 @@
+{
+  "tool": "usdc_verifier",
+  "version": "1.0.0",
+  "chain": "base",
+  "chain_id": 8453,
+  "usdc_contract": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+  "tx_hash": "0x792a2d013e7c21d5a7bdb3e6de7a627ea8feb34e521711522115868afa0f228b",
+  "checks": {
+    "tx_exists": true,
+    "status_success": true,
+    "usdc_transfer_found": true
+  },
+  "transfers": [
+    {
+      "log_index": 3,
+      "from": "0x0a475a0b5edf91ffee52ccb7bf005bbfb8c8319a",
+      "to": "0x7284d41b5b852f2bd4c99bdf95043d84452d299c",
+      "value_raw": "20000",
+      "value_usdc": 0.02
+    }
+  ],
+  "verified": true,
+  "errors": [],
+  "block_number": 54439396,
+  "from": "0x64cc42b1ce598e3abcfbb64df4688521ddbf1f0a",
+  "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
+}

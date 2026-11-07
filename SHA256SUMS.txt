@@ -1,0 +1,3 @@
+502f0815982ba35dd88795793453f7403e129ae3cbc3603af02b407fc7e6fb55  usdc_verifier.py
+a6d92ab6a02e6ab154f6b49397db5f7bdd18dbd78fcbeac3b7a011960d3efcbd  test_usdc_verifier.py
+1757d9e92bc8ac9bea063bf06944b48ecd159384fed686a867ac45cebf7941a7  sample-report.json
